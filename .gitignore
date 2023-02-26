@@ -1,0 +1,8 @@
+dist
+build
+.cache
+.env
+.eslintcache
+package-lock.json
+.angular
+node_modules
